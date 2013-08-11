@@ -1,1 +1,4 @@
-This file was created by IntelliJ IDEA (Community Edition) IC-129.961 for binding GitHub repository
+child views are placed one after another left-to-right, if there is enough space to place child,
+
+the child view will be wrapped to a new line
+

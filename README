@@ -3,3 +3,6 @@ child views are placed one after another left-to-right, once beyond the width of
 the child view will be wrapped to a new line
 
 support layout_margin
+
+ <img   width="200" height="200"
+       src="https://raw.github.com/qii/FlowLayout/master/snapshot.JPG" />
